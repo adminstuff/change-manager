@@ -9,6 +9,7 @@ Installer les dépendances suivantes :
 - pip install configparser
 - pip install requests
 - pip install unidecode
+- pip install cryptography
 
 # Eléments fonctionnels
 - Ouverture d'une fenêtre en plein écran, sans possibilité de la fermer.
